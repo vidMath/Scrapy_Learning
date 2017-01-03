@@ -1,0 +1,8 @@
+[
+{"Heading ": "First steps", "Subheading ": ["Scrapy at a glance", "Installation guide", "Scrapy Tutorial", "Examples"]},
+{"Heading ": "Basic concepts", "Subheading ": ["Command line tool", "Spiders", "Selectors", "Items", "Item Loaders", "Scrapy shell", "Item Pipeline", "Feed exports", "Requests and Responses", "Link Extractors", "Settings", "Exceptions"]},
+{"Heading ": "Built-in services", "Subheading ": ["Logging", "Stats Collection", "Sending e-mail", "Telnet Console", "Web Service"]},
+{"Heading ": "Solving specific problems", "Subheading ": ["Frequently Asked Questions", "Debugging Spiders", "Spiders Contracts", "Common Practices", "Broad Crawls", "Using Firefox for scraping", "Using Firebug for scraping", "Debugging memory leaks", "Downloading and processing files and images", "Deploying Spiders", "AutoThrottle extension", "Benchmarking", "Jobs: pausing and resuming crawls"]},
+{"Heading ": "Extending Scrapy", "Subheading ": ["Architecture overview", "Downloader Middleware", "Spider Middleware", "Extensions", "Core API", "Signals", "Item Exporters"]},
+{"Heading ": "All the rest", "Subheading ": ["Release notes", "Contributing to Scrapy", "Versioning and API Stability"]}
+]
